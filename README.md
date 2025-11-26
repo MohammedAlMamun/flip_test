@@ -3,7 +3,7 @@ Minimal R tools for diagnosing strand-orientation bias around replication origin
 
 # Overview
 
-Accurate strand assignment near replication origins is essential for interpreting BrdU-seq, Okazaki fragment sequencing, and replication-coupled ChIP libraries (e.g., Pol2, Pol3).
+Accurate strand assignment near replication origins is essential for interpreting BrdU-seq, eSPAN-seq, and replication-coupled ChIP libraries (e.g., Pol2, Pol3).
 However, strand calling can shift depending on how fragments are represented:
 
 Mate1 5′ end (read start)
